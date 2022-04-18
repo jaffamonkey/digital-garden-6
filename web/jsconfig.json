@@ -1,6 +1,6 @@
 {
 	"compilerOptions": {
-		"baseUrl": ".",
+		"baseUrl": "https://sweet-centaur-1cda6d.netlify.app",
 		"paths": {
 			"@/components/*": ["components/*"],
 			"@/layouts/*": ["layouts/*"]
